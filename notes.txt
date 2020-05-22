@@ -1,0 +1,3 @@
+https://scotch.io/tutorials/a-practical-graphql-getting-started-guide-with-nodejs
+
+install visual studio code and node to run npm
